@@ -2,6 +2,8 @@
 
 Final project for IUB CSCI-657 Computer Vision
 
+Project SAFE aims to calculate the safety score and a safe path to an elementary school by object detection / classification of street view images. The coordinates within the 1-mile radius of an elementary school are extracted and street view images are downloaded accordingly. The images are fed to the models to calculate the safety score per coordinate, which is used to calculate a safe path. Results show that the program provides a better path a student can take to walk to school and compares the safety score between the different classes of elementary schools.
+
 
 # Corresponding models and data
 The pre-trained models and data can be found in this link;
