@@ -1,4 +1,4 @@
-# SAFE : Safe Approximation For Elementary schools
+# Project SAFE : Safe Approximation For Elementary schools
 
 Final project for IUB CSCI-657 Computer Vision
 
