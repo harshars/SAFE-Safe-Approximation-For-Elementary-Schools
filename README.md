@@ -1,4 +1,5 @@
-# CV_final_project
+# SAFE : Safe Approximation For Elementary schools
+
 Final project for IUB CSCI-657 Computer Vision
 
 
